@@ -1,0 +1,9 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\bin\Debug\Log4Net Tutorial.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\bin\Debug\log4net.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\bin\Debug\Log4Net Tutorial.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\bin\Debug\Log4Net Tutorial.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\bin\Debug\log4net.dll
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\bin\Debug\log4net.xml
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\obj\Debug\Log4Net Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\obj\Debug\Log4Net Tutorial.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\Log4Net Tutorial\Log4Net Tutorial\obj\Debug\Log4Net Tutorial.pdb

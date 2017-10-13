@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Log4Net_Tutorial
 {
-    // Follow this Link , Its super easy and effective
+    // Follow this Link , Its super easy and effective 
     // https://stackify.com/log4net-guide-dotnet-logging/
 
     class Program
